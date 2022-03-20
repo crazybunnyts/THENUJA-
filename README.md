@@ -1,6 +1,6 @@
 # 😈kingbot😈  *whatsapp bot©*
 
-Janithsadanuwan   <a href="https://github.com/janith12345sa/Janithsadanuwan">*About me*</a>
+THENUJA  <a href="https://github.com/janith12345sa/Janithsadanuwan">*About me*</a>
 
 #### Select your language
   [![English](https://img.shields.io/badge/Select-English-yellow.svg)](https://github.com/janith12345sa/King-BOT/blob/launch/README.md)
@@ -8,7 +8,7 @@ Janithsadanuwan   <a href="https://github.com/janith12345sa/Janithsadanuwan">*Ab
   
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2315B6F7&lines=Welcome+to+%F0%9F%98%88kingbot%F0%9F%98%88;Created+By+Janith+Sadanuwan)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2315B6F7&lines=Welcome+to+%F0%9F%98%88BLACK+ALPHA%F0%9F%98%88;Created+By+THENUJA+SATHSARA)](https://git.io/typing-svg)
 
  </a>
 
@@ -112,7 +112,7 @@ Deploy
 
 #### 02. Click Deploy button
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/janith12345sa/KingBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/crazybunnyts/KingBot)
 
 
 » එම පෝරමය පුරවා අවසන් වූ පසු, පෝරමයට පහළින් ඇති "Deploy App" බොත්තම ක්ලික් කරන්න.
